@@ -1,2 +1,21 @@
-name: Casey Jo Noble. writer. wine pro. data scientist.
+# Site settings
+title: Casey Jo Noble | Writer. Wine Pro. Data Scientist.
+email: caseyjonoble@gmail.com
+description: Professional Blog and Portfolio for Casey Jo Noble
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+
+# Social settings
+500px_url:
+facebook_url: 
+github_url: https://github.com/caseyjosephine
+gitlab_url: 
+googleplus_url: 
+instagram_url: https://www.instagram.com/caseyjonoble/
+linkedin_url: https://www.linkedin.com/in/caseynoble/
+pinterest_url:
+slack_url:
+twitter_url: 
+
+# Build settings
 markdown: kramdown
