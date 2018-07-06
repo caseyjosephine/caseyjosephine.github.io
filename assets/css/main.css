@@ -1875,7 +1875,7 @@
 /* Section/Article */
 
 	section.special, article.special {
-		text-align: center;
+		text-align: justify;
 	}
 
 	header p {
@@ -2278,6 +2278,7 @@
 
 			ul.icons-grid li {
 				display: block;
+				text-align: center;
 				float: left;
 				padding: 3em 0;
 				width: 50%;
@@ -2759,7 +2760,7 @@
 
 		#footer footer {
 			bottom: 2em;
-			color: black;
+			color: white;
 			left: 0;
 			position: absolute;
 			text-align: center;
@@ -2779,7 +2780,8 @@
 				}
 
 			#footer footer .copyright {
-				font-size: 0.8em;
+				font-size: 1em;
+				text-shadow: text-shadow: 2px 2px black;
 				line-height: 1em;
 				padding: 0;
 			}
@@ -3033,4 +3035,5 @@
 	}
 	    .img-circle {
         border-radius: 50%;
+	border: 10px solid  white;
     }
