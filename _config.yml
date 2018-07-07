@@ -19,3 +19,6 @@ twitter_url:
 
 # Build settings
 markdown: kramdown
+
+# Google Analytics
+google_analytics: UA-121888193-1
