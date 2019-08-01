@@ -4,6 +4,7 @@ email: caseyjonoble@gmail.com
 description: Professional Blog and Portfolio for Casey Jo Noble
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
+permalink: pretty
 
 # Social settings
 500px_url:
