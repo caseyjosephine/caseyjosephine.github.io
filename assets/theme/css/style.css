@@ -37,6 +37,13 @@ h1, h2, h3, h4, h5, h6,
   word-break: break-word;
   word-wrap: break-word; }
 
+h2 {margin-top: 50px;
+margin-bottom: 50px;}
+
+p {margin-top: 40px;}
+
+#content1-k {li: margin-top: 40px;}
+
 b, strong {
   font-weight: bold; }
 
@@ -45,6 +52,11 @@ blockquote {
   position: relative;
   border-left: 2px solid;
   border-color: #ff3366; }
+
+blockquote p {
+  margin-top: 10px;
+  font-size: 1.25em;
+}
 
 input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:focus, input:-webkit-autofill:active {
   transition-delay: 9999s;
