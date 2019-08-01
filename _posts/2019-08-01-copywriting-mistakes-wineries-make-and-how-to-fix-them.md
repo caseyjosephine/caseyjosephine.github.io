@@ -2,7 +2,7 @@
 layout: page
 title:  "The biggest copywriting mistakes wineries make — and how to fix them"i
 date: 2019-08-01
-permalink: /marketing-mistakes-wineries-make
+permalink: /marketing-mistakes-wineries-make/
 ---
 
 If you run a winery, you’re probably making mistakes with your copywriting.
