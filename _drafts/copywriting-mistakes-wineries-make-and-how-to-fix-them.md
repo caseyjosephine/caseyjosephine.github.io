@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "The biggest copywriting mistakes wineries make — and how to fix them"
+date: 2019-08-01 
 permalink: /copywriting-mistakes-wineries-make/
 ---
 
