@@ -16,7 +16,7 @@ If your average writer asked me "Hey, what software should I use to write my fan
 
 This is what it looks like:
 
-![Programming mode vs writing mode in Vim](/assets/images/vimmodes.png)
+![Programming mode vs writing mode in Vim](/assets/images/vimmodes.png){: .img-fluid}
 
 Here's how we do it.
 
